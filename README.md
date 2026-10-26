@@ -1,5 +1,3 @@
-# Hospital_Management_System
-
 # MediQueue – Hospital Queue and Token Management System
 
 MediQueue is a hospital queue management web application designed to organize patient registration, doctor management, and digital token-based consultations.
